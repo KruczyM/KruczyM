@@ -12,7 +12,12 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=50F710&width=435&lines=Building+the+future+and+dreams!&center=true&hOffset=20" />
   </a>
 </div>
-<img src="https://raw.githubusercontent.com/KruczyM/KruczyM/output/snake.svg" alt="Snake animation" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 
 ## Hey, I'm Aleksander 👋
